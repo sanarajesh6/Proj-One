@@ -15,7 +15,7 @@ Syntax highlighted code block
 hui
 ## Header 2
 as
-### Header 3 as
+### Header 3
 
 - Bulleted
 - List
