@@ -3,6 +3,8 @@
 
 @import "{{ site.theme }}";
 body {
+    background-image: url(../images/bg_02.jpg);
+    background-repeat: repeat-x;
     background-color: #b2dfdb;
     margin: 0px;
 }
