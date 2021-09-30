@@ -12,12 +12,6 @@ Swimming tackles everything from sculpting your back to toning your arms—all w
 ```markdown
 Syntax highlighted code block
 
-# Hello
-```
-
-```markdown
-Syntax highlighted code block
-
 # Header 1
 hui
 ## Header 2
