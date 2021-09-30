@@ -9,6 +9,8 @@ Swimming is an amazing sport. It keeps your heart rate up but takes some of the 
 
 Swimming tackles everything from sculpting your back to toning your arms—all without having to pick up a weight.
 
+![https://www.mensjournal.com/wp-content/uploads/2015/06/muscularmanpool.jpg?quality=86&strip=all](src)
+
 ```markdown
 Syntax highlighted code block
 
