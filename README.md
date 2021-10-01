@@ -8,4 +8,3 @@ Swimming is an amazing sport. It keeps your heart rate up but takes some of the 
 ### 1. It's a full body workout!
 
 Swimming tackles everything from sculpting your back to toning your arms—all without having to pick up a weight.
-
