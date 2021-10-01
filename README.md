@@ -24,6 +24,5 @@ Well, help is at hand. Swimming regularly can lower stress levels, reduce anxiet
 
 ![Image](https://swimjim.com/wp-content/uploads/2019/10/Fun-Swimming-915x610.jpg)
 
-**For more information, make sure to check out other websites such as this!: 
-[Link](https://www.healthline.com/health/benefits-of-swimming)
-**
+**For more information click
+[Here](https://www.healthline.com/health/benefits-of-swimming)**
